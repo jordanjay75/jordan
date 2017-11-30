@@ -1,2 +1,2 @@
-# http://jordanja.github.io 
+# https://jrodanja.github.io/jordan/ 
 A6-PUI
